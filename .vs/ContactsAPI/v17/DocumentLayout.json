@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\burak\\source\\repos\\contactsapi\\contactsapi\\migrations\\20240818104845_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\migrations\\20240818104845_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\burak\\source\\repos\\contactsapi\\contactsapi\\data\\contactsapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\data\\contactsapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\burak\\source\\repos\\contactsapi\\contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\burak\\source\\repos\\contactsapi\\contactsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|c:\\users\\burak\\source\\repos\\contactsapi\\contactsapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6A219C-C066-494D-9E74-D54830952806}|ContactsAPI\\ContactsAPI.csproj|solutionrelative:contactsapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 43,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240818104845_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\Migrations\\20240818104845_mig_1.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Migrations\\20240818104845_mig_1.cs",
+              "ToolTip": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\Migrations\\20240818104845_mig_1.cs",
+              "RelativeToolTip": "ContactsAPI\\Migrations\\20240818104845_mig_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:48:45.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\Program.cs",
+              "RelativeToolTip": "ContactsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:33:11.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\appsettings.json",
+              "RelativeToolTip": "ContactsAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T10:30:25.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\Data\\ContactsAPIDbContext.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Data\\ContactsAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\Data\\ContactsAPIDbContext.cs",
+              "RelativeToolTip": "ContactsAPI\\Data\\ContactsAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAADOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:27:29.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactsAPI\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\BURAK\\source\\repos\\ContactsAPI\\ContactsAPI\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactsAPI\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:58:26.514Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 531,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 226,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
